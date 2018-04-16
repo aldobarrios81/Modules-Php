@@ -1,6 +1,6 @@
 <?php
 // Settings
-$emailTo = 'aldo.barrios@aldobarrios.com';
+$emailTo = '';
 $emailFrom = sprintf( 'robot@%s', $_SERVER[ 'SERVER_NAME' ] );
 $subject = sprintf( 'Message from %s', $_SERVER[ 'SERVER_NAME' ] );
 
